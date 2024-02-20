@@ -17,6 +17,9 @@ my xcode need to download the update to new version , and ios version is not com
 I use typescripts , react navigation , asyncstorage for this project .
 and react-native-auth0 for authetication .
 
+username: shayanfarshad@gmail.com
+password: Shayan@4975
+
 # definition 
 
 I used the pagination with button also I could use onReachEnd for flatlist. 
